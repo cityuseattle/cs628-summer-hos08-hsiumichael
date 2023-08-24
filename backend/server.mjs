@@ -14,6 +14,3 @@ app.use("/record", records);
 app.listen(PORT, () => {
     console.log(`Server is running on port: ${PORT}`);
 });
-
-//u5s5Zy1HVWyD0f1l
-//mongodb+srv://hsiumichael:<password>@cs628michael.h4lkphm.mongodb.net/?retryWrites=true&w=majority
